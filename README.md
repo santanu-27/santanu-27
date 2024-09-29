@@ -13,8 +13,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
-<!--#### Framework
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+#### Framework
+<!--![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![ReactJS](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
@@ -49,7 +49,7 @@
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 > 
 ## GitHub Streaks 🔥
-![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1412&theme=onedark&hide_border=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1412&theme=onedark&hide_border=true)<br/>
 
 ### Thanks for Visiting my GitHub Profile!
 
