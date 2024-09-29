@@ -1,6 +1,6 @@
 ### Hi, I'm Santanu! 👋
 
-<h1 align="center"> Hi 👋🏻, I'm Darshan Jain </br> 
+<h1 align="center"> Hi 👋🏻, I'm Santanu! </br> 
 </h1>
 
 ## Socials 🌐
