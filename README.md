@@ -1,6 +1,10 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Santanu! </br> 
 </h1>
 
+- A MERN-Stack Developer & Open Source enthusiast.
+- A Computer Engineering Graduate Student @ USC
+- Currently working on some of my cool side projects based on Web Development and Blockchain.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ## Socials 🌐
 [![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/santanu-das44/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/shinnen_gg)
