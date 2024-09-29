@@ -3,3 +3,4 @@
 
 ## Socials 🌐
 [![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)]
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/shinnen_gg)
