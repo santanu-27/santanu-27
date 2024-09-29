@@ -3,7 +3,7 @@
 
 - A Full-Stack Web Developer & UI/UX Designer.
 - A BCA Student @ MAKAUT
-- I’m creating next-gen web projects, engineering sleek solutions and elevating user experiences!
+- I’m creating next-gen web projects, engineering sleek solutions and elevating user experiences.
 - I’m actively seeking for opportunities where I can learn and make a meaningful contribution in any way I can.
 ## Socials 🌐
 [![Linkdein](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/santanu-das44/)
