@@ -8,6 +8,7 @@
 ## Tech Stack 💻
 #### Languages
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=C&logoColor=0047AB)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
