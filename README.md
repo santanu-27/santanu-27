@@ -23,4 +23,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=santanu-27&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=santanu-27&label=Profile%20Views&color=5&icon=5&pretty=true" />
+</a>
+
+[![](https://visitcount.itsvg.in/api?id=santanu-27&label=Profile%20Views&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)
